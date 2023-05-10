@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원 검색 결과</title>
+<title>회원 검색 결과 리스트</title>
 </head>
 <body>
 	<h2>회원 이름검색 결과</h2>
