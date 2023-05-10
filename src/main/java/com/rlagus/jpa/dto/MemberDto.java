@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 
 // JPA
 @Entity							// MemberDto 클래스를 엔티티로 선언(DB 테이블과 맵핑)
-@Table(name="jpa_member")		// 엔티티와 맵핑할 DB 테이블 이름 지정
+@Table(name="jpa_member")		// 엔티티와 맵핑할 DB 테이블 이름 지정(위험성 아주 강함)
 
 // lombok
 @Data
